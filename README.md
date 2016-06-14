@@ -5,3 +5,5 @@ Sample submissions for edx 15.071x The Analytics Edge Kaggle Competition on voti
 
 Includes ggplot2 visualizations, randomForest, CART, GLM models, etc.
 Created as a RStudio project and Jupyter Notebook with R kernel
+
+Final standing: 170/2875
